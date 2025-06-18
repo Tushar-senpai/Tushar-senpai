@@ -24,7 +24,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitwizzz&show_icons=true&locale=en&layout=compact" alt="gitwizzz" /></p>
 
+### ✅ Certification
 
+[![API & Postman Certified](https://api.badgr.io/public/assertions/uLPGi_9qQf2bnrH25tWQZw/image)](https://api.badgr.io/public/assertions/uLPGi_9qQf2bnrH25tWQZw)
 <!--
 **Tushar-senpai/Tushar-senpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
