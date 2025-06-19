@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Discover My Projects: Dive into Code</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" width="400"/>
+  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="Coding" width="400"/>
 </p>
 
 <p align="center">
