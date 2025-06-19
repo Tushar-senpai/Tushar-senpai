@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Discover My Projects: Dive into Code</h3>
 
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="Coding" width="400"/>
+  <img src="https://www.bing.com/th/id/OGC.a5471f4f891440016a6b19dd32f4587b?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2ff%2fc83c004e-1370-4756-88e5-4071de797088%2fdgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif%3ftoken%3deyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8&ehk=pUijcf61uR9DmeBKXykmszXos4SbiS9IBBKjS45O%2bz4%3d" alt="Coding" width="400"/>
 </p>
 
 <p align="center">
