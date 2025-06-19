@@ -43,7 +43,7 @@
   <a href="https://www.credly.com/badges/9780d9ca-9272-4bdf-8cf8-e8676d2a3707/public_url" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="120"/>
   </a>
-  <a href="https://www.credly.com/badges/b93bf373-3da6-4ada-9879-a0c39d6a11f8/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/3210b079-3e57-4657-9806-764671e7d823/public_url">
     <img src="https://images.credly.com/size/220x220/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" alt="Credly Badge" width="120"/>
   </a>
 </p>
