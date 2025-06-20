@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Passionate about **Web3 Technologies**  
+- 🌱 Passionate about **Web3 Technologies**  and **cybersecurity** 
 - 👯 Seeking collaboration on **Development Projects**  
 - 💬 Ask me about **Coding, APIs, or Web Development**  
 - 📫 Reach me at: **tushar.kumar6012@gmail.com**
