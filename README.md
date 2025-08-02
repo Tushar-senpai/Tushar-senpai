@@ -46,6 +46,8 @@
   <a href="https://www.credly.com/badges/3210b079-3e57-4657-9806-764671e7d823/public_url">
     <img src="https://images.credly.com/size/220x220/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" alt="Credly Badge" width="120"/>
   </a>
+<img width="129" height="120" alt="image" src="https://github.com/user-attachments/assets/079165de-be57-4bc5-b95b-536af48179b8" />
+ 
 </p>
 
 ---
