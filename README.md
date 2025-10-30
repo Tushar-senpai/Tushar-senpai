@@ -48,7 +48,7 @@
   </a>
 <img width="129" height="120" alt="SSOC badge" src="https://github.com/user-attachments/assets/079165de-be57-4bc5-b95b-536af48179b8" />
 
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmg338xp10006l2044r54qykp?balloons=true">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhdl60k8007ol404i1ua41lb?balloons=true">
     <!-- <img width="129" height="120" src="https://holopin.io/api/userbadge/cmg338xp10006l2044r54qykp" alt="Holopin Badge" /> -->
    <img width="129" height="120" alt="image" src="https://github.com/user-attachments/assets/d53715d8-e067-4bff-8d6f-38ccdcedf922" />
 
